@@ -17,4 +17,3 @@ companeros(A, B) :-
     esta_en(A, Z),
     esta_en(B, Z),
     A \== B.
-
